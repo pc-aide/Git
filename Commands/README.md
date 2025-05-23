@@ -11,3 +11,4 @@
 |4|push|To send to the repo|`git push`|
 |5|clone||`git clone https://github.com/nathanlopez/Stitch.git`|
 |6|pull||`git pull`|
+|7|status||`git status`|<img src="https://i.imgur.com/6hk95KD.png">|
